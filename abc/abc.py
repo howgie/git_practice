@@ -2,7 +2,7 @@ def my_func1(a):
     print(a)
 
 
-def my_func2(a):
+def my_func2(a, c):
     print(a)
 
 
